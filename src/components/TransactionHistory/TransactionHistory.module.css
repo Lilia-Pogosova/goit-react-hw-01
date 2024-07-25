@@ -1,0 +1,37 @@
+.table {
+    width: 900px;
+    border-collapse: collapse;
+    margin: 30px 10px 30px 10px;
+}
+
+.thead>tr>th {
+    color: white;
+    padding: 8px;
+
+    background-color: #2a2a2a;
+    border: 1.5px solid black;
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: x-large;
+    font-weight: normal;
+    font-weight: bold;
+    
+}
+
+.color:nth-child(2n) {
+    background-color: #d3d3d3;
+}
+
+.td {
+    width: 300px;
+    padding: 9px;
+
+    text-align: center;
+    color: black;
+    border: 1.5px solid black;
+    border-collapse: collapse;
+    text-transform: capitalize;
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: x-large;
+
+    
+}
